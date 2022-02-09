@@ -1,0 +1,1 @@
+This datapack will correct the campfire type of structures from buzzier bees and savage and ravage. This datapack is meant to be used with both mods. Do not under any circumstances run this datapack without savage and ravage or your world will generate wrong.
